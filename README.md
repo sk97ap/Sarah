@@ -6,3 +6,5 @@ data analyst portfolio
              The data was cleaned, analysed and visualized using R. 
              The focus was on the Bellabeat leaf crystal product. 
              Finding new insights might help guide Bellabeat marketing strategy. 
+
+[My roadmap to data analytics certificate](https://github.com/sk97ap/Sarah/blob/main/dailyactivity.utf8.pdf)
