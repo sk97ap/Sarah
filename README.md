@@ -7,6 +7,6 @@ data analyst portfolio
              The focus was on the Bellabeat leaf crystal product. 
              Finding new insights might help guide Bellabeat marketing strategy. 
  
-(https://github.com/sk97ap/Sarah/blob/main/image2.pdf)
+!(https://github.com/sk97ap/Sarah/blob/main/image2.pdf)
 
 
